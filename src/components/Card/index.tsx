@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import CarInfo from "./CarInfo";
 import CustomButton from "../CustomButton";
 import { motion } from "framer-motion";
