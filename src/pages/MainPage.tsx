@@ -12,10 +12,9 @@ import ShowMore from "../components/ShowMore";
 const MainPage = () => {
   const [cars, setCars] = useState<CarType[]>([]);
 
-  const [params, setParams] = useSearchParams();
+  const params = useSearchParams();
 
   useEffect(() => {
-    // Creates an object in the form of a key/value pair with the values ​​in an object.
     const paramsObj = Object.fromEntries(params.entries());
 
     fetchCars(paramsObj).then((res: CarType[]) => setCars(res));
