@@ -23,23 +23,23 @@ In this project, a modern and stylish car rental application was created using T
 
 # Used Technologies
 
-TypeScript: Güvenli ve ölçeklenebilir kodlama.
+TypeScript: Secure and scalable coding.
 
-React: Komponent tabanlı UI geliştirme.
+React: Component-based UI development.
 
-React Router DOM: Dinamik ve tek sayfa uygulama yönlendirme.
+React Router DOM: Dynamic and single page application routing.
 
-Framer Motion: Animasyonlar ve geçişler.
+Framer Motion: Animations and transitions.
 
-React Select: Gelişmiş seçme bileşenleri.
+React Select: Advanced select components.
 
-Tailwind CSS: Hızlı ve duyarlı stil verme.
+Tailwind CSS: Fast and responsive styling.
 
 # Preview
+![carrental](https://github.com/yusufyaman07/car_rental/assets/148998418/179c1b49-b2eb-4a75-a1eb-3b450a796dd1)
 
 # API Used
 - https://rapidapi.com/apininjas/api/cars-by-api-ninjas
-# Live Project
-
+- https://cdn.imagin.studio/getimage
 # For your questions and suggestions:
 - yusufyaman00000@gmail.com
